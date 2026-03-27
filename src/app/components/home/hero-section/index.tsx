@@ -26,8 +26,8 @@ const index = () => {
             </p>
           </div>
           <Image
-            src={"/images/home/banner/banner-img.png"}
-            alt="banner-img"
+            src={"/images/home/banner/banner-img2.png"}
+            alt="banner-img2"
             width={685}
             height={650}
             className="block lg:hidden"
@@ -36,8 +36,8 @@ const index = () => {
       </div>
       <div className="absolute right-0 top-0 hidden h-auto w-1/2 lg:block 2xl:h-171.5 2xl:w-187.5">
         <Image
-          src={"/images/home/banner/banner-img.png"}
-          alt="banner-img"
+          src={"/images/home/banner/banner-img2.png"}
+          alt="banner-img2"
           width={685}
           height={650}
           className=" absolute right-0 top-0 z-1"

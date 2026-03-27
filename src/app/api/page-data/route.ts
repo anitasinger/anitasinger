@@ -5,38 +5,38 @@ const contactBar = {
   contactItems: [
     {
       type: "email",
-      label: "hello@imsruthi.com",
+      label: "hi@anitasigner.com",
       icon: "/images/icon/mail-icon.svg",
       link: "mailto:hello@imsruthi.com"
     },
     {
       type: "phone",
-      label: "+901 5588 2500",
+      label: "+1 609 414 6699",
       icon: "/images/icon/call-icon.svg",
-      link: "tel:+90155882500"
+      link: "tel:++16094146699"
     },
     {
       type: "website",
-      label: "www.mywebsite.com",
+      label: "www.anitasigner.com",
       icon: "/images/icon/web-icon.svg",
       link: "https://www.mywebsite.com"
     }
   ],
   socialItems: [
     {
-      platform: "dribbble",
+      platform: "Youtube",
       icon: "/images/icon/dribble-icon.svg",
-      link: "https://dribbble.com"
+      link: "https://www.youtube.com/@anitajoshisongs3012/videos"
     },
     {
-      platform: "linkedin",
+      platform: "Instagram",
       icon: "/images/icon/linkedin-icon.svg",
-      link: "https://linkedin.com"
+      link: "https://www.instagram.com/singer_anita_joshi_official/"
     },
     {
       platform: "facebook",
       icon: "/images/icon/facebook-icon.svg",
-      link: "https://facebook.com"
+      link: "https://www.facebook.com/p/Anita-joshi-singer-100069831814767/"
     }
   ]
 };
@@ -45,15 +45,15 @@ const contactBar = {
 const educationData = {
   education: [
     {
-      title: "Lipsum Collage - 2010",
+      title: "My 1st UK Tour - 2005",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form Koramangala collage."
     },
     {
-      title: "Master Diploma - 2012",
+      title: "Malysia Event 2009",
       description: "Combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
     },
     {
-      title: "Master in User Experience - 2014",
+      title: "USA Singing Tour 2010",
       description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
     }
   ],
@@ -94,28 +94,28 @@ const educationData = {
 const contactLinks = {
   socialLinks: [
     {
-      title: "Dribble",
-      href: "/"
+      title: "Youtube",
+      href: "https://www.youtube.com/@anitajoshisongs3012/videos"
     },
     {
       title: "Facebook",
-      href: "/"
+      href: "https://www.facebook.com/p/Anita-joshi-singer-100069831814767/"
     },
     {
-      title: "LinkedIn",
-      href: "/"
+      title: "Instagram",
+      href: "https://www.instagram.com/singer_anita_joshi_official/"
     },
   ],
   contactInfo: [
     {
       type: "email",
-      label: "hello@imsruthi.com",
-      link: "mailto:hello@imsruthi.com"
+      label: "hi@anitasigner.com.",
+      link: "mailto:hi@anitasigner.com."
     },
     {
       type: "phone",
-      label: "+901 5588 2500",
-      link: "tel:+90155882500"
+      label: "+1 609 414 6699",
+      link: "tel:+16094146699"
     }
   ]
 }

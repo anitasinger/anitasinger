@@ -2,16 +2,16 @@ import { NextResponse } from "next/server";
 
 const workData = [
     {
-        image: "/images/work/work-img-1.jpg",
+        image: "/images/work/work-img-7.jpg",
         title: "Mera Bhola He Bhandari",
         client: "India",
         slug: "https://www.youtube.com/watch?v=3mYAd3V80qA"
     },
     {
-        image: "/images/work/work-img-2.jpg",
-        title: "Mobile App Design",
-        client: "John Honnai",
-        slug: "mobile-app-design"
+        image: "/images/work/work-img-8.jpg",
+        title: "Gujarati Song",
+        client: "Natwar Thakurji",
+        slug: "https://www.youtube.com/watch?v=AAs17y0HHns"
     },
     {
         image: "/images/work/work-img-3.jpg",
