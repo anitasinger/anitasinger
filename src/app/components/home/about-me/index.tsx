@@ -35,19 +35,14 @@ const AboutMe = () => {
 
               <div className="w-full lg:max-w-2xl flex-1">
                 <p>
-                  There are many variations of passages of Lorem Ipsum
-                  available, but the majority have suffered alteration in some
-                  form, by injected humour, or randomised words which don't look
-                  even slightly believable. If you are going to use a passage of
-                  Lorem Ipsum, you need to be sure there isn't anything
-                  embarrassing hidden in the middle of text.
+                  With over two decades of experience, this artist has built a powerful musical journey that began in Rajasthan and flourished in Ahmedabad. Known for captivating performances and a versatile voice, she has performed for audiences worldwide, blending tradition with modern expression.
                 </p>
 
                 <div className="grid grid-cols-3 py-10 xl:py-16 gap-5 border-b border-gray-300">
                   {[
-                    { count: "06", label: "Years of experience" },
-                    { count: "165+", label: "Happy Clients" },
-                    { count: "1800+", label: "Project Completed" },
+                    { count: "20+", label: "Years of experience" },
+                    { count: "165+", label: "Signing Events Attended" },
+                    { count: "1800+", label: "Hours Stage Performed" },
                   ].map((item, i) => (
                     <div key={i}>
                       <h3>{item.count}</h3>
@@ -66,10 +61,10 @@ const AboutMe = () => {
                       width={30}
                       height={30}
                     />
-                    <p className="text-base xl:text-xl text-black">Language</p>
+                    <p className="text-base xl:text-xl text-black">Hindi</p>
                   </div>
                   <div className="flex flex-wrap justify-center items-center gap-2.5">
-                    {["English", "Hindi", "Malayalam"].map((lang, index) => (
+                    {["Gujrati", "Marwari", "Bhajans"].map((lang, index) => (
                       <Badge key={index} className="h-full bg-white rounded-full">
                         <p className="bg-white py-2 md:py-3.5 px-4 md:px-5 text-base xl:text-xl text-muted-foreground">
                           {lang}

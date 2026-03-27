@@ -3,36 +3,36 @@ import React from "react";
 const ExperienceSec = () => {
   const experiences = [
     {
-      year: "2018",
-      title: "Junior UX Designer",
-      company: "www.startup.com",
+      year: "2004-2010",
+      title: "Wedding Event Singer ",
+      company: "Company Name",
       type: "Fulltime",
       description:
-        "Suffered alteration in some form by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum",
+        "Started performing at premium wedding events across Ahmedabad, delivering soulful Bollywood and traditional performances. Built a strong connection with live audiences through energetic and emotional singing.",
     },
     {
-      year: "2019",
-      title: "Senior UX Designer",
+      year: "2010-2014",
+      title: "Live Stage Performer",
       company: "www.googly.com",
       type: "Remote",
       description:
-        "Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem",
+        "Performed at cultural festivals and Garba nights, specializing in Gujarati and folk music. Known for engaging crowds and creating high-energy musical experiences.",
     },
     {
-      year: "2020-2022",
-      title: "Team Lead Designer",
+      year: "2015 - 2020",
+      title: "Professional Playback & Event Singer",
       company: "www.company.com",
       type: "Fulltime",
       description:
-        "Handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated",
+        "Worked with event companies and music groups, performing Bollywood, Bhajans, and fusion music. Gained recognition for versatile singing and consistent stage presence across multiple cities.",
     },
     {
-      year: "2023+",
-      title: "Team Lead Designer",
+      year: "2023-2025",
+      title: "Professional Playback & Event Singer",
       company: "www.latest.com",
       type: "Fulltime",
       description:
-        "Release of Letraset sheets containing Lorem Ipsum passages and more recently with desktop publishing software",
+        "Performing at international shows and private events, representing Indian music globally. Blending traditional roots with modern styles to deliver unforgettable performances worldwide.",
     },
   ];
 

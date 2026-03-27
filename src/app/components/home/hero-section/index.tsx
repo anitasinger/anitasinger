@@ -8,7 +8,7 @@ const index = () => {
           <div className="flex flex-col gap-4 md:gap-7 max-w-2xl">
             <div>
               <div className="flex items-center gap-8">
-                <h1>I'm Sruthi</h1>
+                <h1>I'm Anita Joshi</h1>
                 <div className="wave">
                   <Image
                     src={"/images/home/banner/wave-icon.svg"}
@@ -19,12 +19,10 @@ const index = () => {
                   />
                 </div>
               </div>
-              <h1>UI/UX Designer</h1>
+              <h1>Singing Artist</h1>
             </div>
             <p className="text-muted-foreground font-normal max-w-md xl:max-w-xl">
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. variations of passages of Lorem Ipsum available, but the
-              majority have suffered alteration
+              Bringing 20+ years of musical passion to every stage. From the roots of Rajasthan to audiences across the globe experience a voice that connects cultures and hearts.
             </p>
           </div>
           <Image

@@ -3,9 +3,9 @@ import { NextResponse } from "next/server";
 const workData = [
     {
         image: "/images/work/work-img-1.jpg",
-        title: "Mug Sticker Designing",
-        client: "John Honnai",
-        slug: "mug-sticker-designing"
+        title: "Mera Bhola He Bhandari",
+        client: "India",
+        slug: "https://www.youtube.com/watch?v=3mYAd3V80qA"
     },
     {
         image: "/images/work/work-img-2.jpg",
