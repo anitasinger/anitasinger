@@ -16,12 +16,12 @@ const Footer = () => {
           <p className="text-muted-foreground">
             2026 © Designed by{" "}
             <Link
-              href={"https://getnextjstemplates.com/"}
+              href={"MarketingMens.com"}
               className="hover:text-black"
             >
-              getnextjstemplates.
+              marketingmens.com
             </Link>{" "}
-            - All rights reserved.
+            - All rights reserved by Anita Signer
           </p>
         </div>
       </div>
