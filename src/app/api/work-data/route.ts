@@ -14,22 +14,22 @@ const workData = [
         slug: "https://www.youtube.com/watch?v=AAs17y0HHns"
     },
     {
-        image: "/images/work/work-img-3.jpg",
-        title: "Fashion Website Template",
-        client: "John Honnai",
-        slug: "fashion-website-template"
+        image: "/images/work/work-img-9.jpg",
+        title: "Ye Samaa Samaa Hai Pyar Ka",
+        client: "Aawaz Academy",
+        slug: "https://www.youtube.com/watch?v=_fHkeFcX87c"
     },
     {
-        image: "/images/work/work-img-4.jpg",
-        title: "Book Cover Design",
-        client: "John Honnai",
-        slug: "book-cover-design"
+        image: "/images/work/work-img-10.jpg",
+        title: "Pehla Nasha Pehla Khumar",
+        client: "Sadhana Sargam",
+        slug: "https://www.youtube.com/watch?v=-nxsfGb6QUk"
     },
     {
-        image: "/images/work/work-img-5.jpg",
-        title: "Mobile App Design",
-        client: "John Honnai",
-        slug: "mobile-app-design"
+        image: "/images/work/work-img-11.jpg",
+        title: "Dil Hai ke Manta Nahi",
+        client: "Anuradha Paudwal",
+        slug: "https://www.youtube.com/watch?v=V-CrlmTl1EQ"
     },
     {
         image: "/images/work/work-img-6.jpg",

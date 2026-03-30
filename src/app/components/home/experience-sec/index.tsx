@@ -13,7 +13,7 @@ const ExperienceSec = () => {
     {
       year: "2010-2014",
       title: "Live Stage Performer",
-      company: "www.googly.com",
+      company: "Band Name",
       type: "Remote",
       description:
         "Performed at cultural festivals and Garba nights, specializing in Gujarati and folk music. Known for engaging crowds and creating high-energy musical experiences.",
@@ -21,16 +21,16 @@ const ExperienceSec = () => {
     {
       year: "2015 - 2020",
       title: "Professional Playback & Event Singer",
-      company: "www.company.com",
-      type: "Fulltime",
+      company: "Music Company Name",
+      type: "Free Lancer",
       description:
         "Worked with event companies and music groups, performing Bollywood, Bhajans, and fusion music. Gained recognition for versatile singing and consistent stage presence across multiple cities.",
     },
     {
       year: "2023-2025",
       title: "Professional Playback & Event Singer",
-      company: "www.latest.com",
-      type: "Fulltime",
+      company: "As Singer Artist",
+      type: "Free Lancer",
       description:
         "Performing at international shows and private events, representing Indian music globally. Blending traditional roots with modern styles to deliver unforgettable performances worldwide.",
     },
@@ -41,7 +41,7 @@ const ExperienceSec = () => {
       <div className="py-16 md:py-32">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between gap-2 border-b border-black pb-7 mb-9 md:mb-16">
-            <h2>Experience</h2>
+            <h2>Singing Experience</h2>
             <p className="text-xl text-primary">( 02 )</p>
           </div>
 
