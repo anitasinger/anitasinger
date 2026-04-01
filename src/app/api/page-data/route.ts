@@ -59,33 +59,33 @@ const educationData = {
   ],
   skills: [
     {
-      name: "Figma",
-      icon: "/images/home/education-skill/figma-icon.svg",
+      name: "Summer Show",
+      icon: "/images/home/education-skill/show-icon.svg",
       rating: 5
     },
     {
-      name: "Photoshop",
-      icon: "/images/home/education-skill/photoshop-icon.svg",
+      name: "Summer Show",
+      icon: "/images/home/education-skill/show-icon.svg",
       rating: 5
     },
     {
-      name: "Sketch",
-      icon: "/images/home/education-skill/sketch-icon.svg",
+      name: "Lyca Radio",
+      icon: "/images/home/education-skill/show-icon-2.png",
       rating: 4
     },
     {
-      name: "Adobe XD",
-      icon: "/images/home/education-skill/adobe-icon.svg",
+      name: "Summer Show",
+      icon: "/images/home/education-skill/show-icon.svg",
       rating: 4
     },
     {
-      name: "Framer",
-      icon: "/images/home/education-skill/framer-icon.svg",
+      name: "Summer Show",
+      icon: "/images/home/education-skill/show-icon.svg",
       rating: 5
     },
     {
-      name: "Invasion",
-      icon: "/images/home/education-skill/invision-icon.svg",
+      name: "Summer Show",
+      icon: "/images/home/education-skill/show-icon.svg",
       rating: 3
     }
   ]
