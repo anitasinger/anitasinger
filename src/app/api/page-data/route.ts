@@ -45,16 +45,16 @@ const contactBar = {
 const educationData = {
   education: [
     {
-      title: "My 1st UK Tour - 2005",
-      description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form Koramangala collage."
+      title: "My 1st UK Tour",
+      description: "Featured in Summer Show and Navratri events, delivering vibrant Gujarati and folk music performances at cultural festivals."
     },
     {
-      title: "Malysia Event 2009",
-      description: "Combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable."
+      title: "Nottingham Tour",
+      description: "Showcased live singing at a mayoral function and prestigious events across Nottingham, bringing Gujarati vibes and folk music to elite audiences."
     },
     {
-      title: "USA Singing Tour 2010",
-      description: "There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration."
+      title: "Stage Share with Bali Brahmbhatt",
+      description: "Collaborated in a special playback performance at Buckingham Palace with Bali Brahmbhatt, showcasing Indian music on a prestigious stage."
     }
   ],
   skills: [

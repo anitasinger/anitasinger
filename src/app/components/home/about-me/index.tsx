@@ -19,7 +19,7 @@ const AboutMe = () => {
           <div className="container">
             <div className="flex items-center justify-between gap-2 border-b border-black pb-7">
               <h2>About Me</h2>
-              <p className="text-xl text-primary">( 01 )</p>
+              
             </div>
 
             <div className="pt-10 xl:pt-16 flex gap-10 items-center justify-between">

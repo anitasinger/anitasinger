@@ -32,10 +32,10 @@ const workData = [
         slug: "https://www.youtube.com/watch?v=V-CrlmTl1EQ"
     },
     {
-        image: "/images/work/work-img-6.jpg",
-        title: "Mug Sticker Designing",
-        client: "John Honnai",
-        slug: "mug-sticker-designing"
+        image: "/images/work/work-img-13.jpg",
+        title: "Koi Dijo Dijo Bira ne Sandesh",
+        client: "Own Portfolio",
+        slug: "https://www.youtube.com/watch?v=F_FHtSmHrP4"
     }
 ];
 

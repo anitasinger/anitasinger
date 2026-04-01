@@ -3,36 +3,36 @@ import React from "react";
 const ExperienceSec = () => {
   const experiences = [
     {
-      year: "2004-2010",
-      title: "Wedding Event Singer ",
-      company: "Company Name",
-      type: "Fulltime",
+      year: "2004",
+      title: "Event Singer ",
+      company: "Silvassa Navratri Festival",
+      type: "9 Days Event",
       description:
-        "Started performing at premium wedding events across Ahmedabad, delivering soulful Bollywood and traditional performances. Built a strong connection with live audiences through energetic and emotional singing.",
+        "Started performing at navratri events across Ahmedabad, delivering soulful dandiya songs 🥢 traditional performances. Built a strong connection with live audiences through energetic and emotional singing.",
     },
     {
-      year: "2010-2014",
+      year: "2005",
       title: "Live Stage Performer",
-      company: "Band Name",
-      type: "Remote",
+      company: "London Summer Show & Navratri Festival",
+      type: "30 Days Event",
       description:
         "Performed at cultural festivals and Garba nights, specializing in Gujarati and folk music. Known for engaging crowds and creating high-energy musical experiences.",
     },
     {
-      year: "2015 - 2020",
+      year: "2006",
       title: "Professional Playback & Event Singer",
-      company: "Music Company Name",
-      type: "Free Lancer",
+      company: "Nottingham London Mayor Celebration",
+      type: "30 Days Event",
       description:
         "Worked with event companies and music groups, performing Bollywood, Bhajans, and fusion music. Gained recognition for versatile singing and consistent stage presence across multiple cities.",
     },
     {
-      year: "2023-2025",
+      year: "2007",
       title: "Professional Playback & Event Singer",
-      company: "As Singer Artist",
-      type: "Free Lancer",
+      company: "BasingStoke London Hindu Temple Festival",
+      type: "30 days Event",
       description:
-        "Performing at international shows and private events, representing Indian music globally. Blending traditional roots with modern styles to deliver unforgettable performances worldwide.",
+        "Performing at international shows and private events, performing Bollywood, Bhajans, and fusion music. Representing Indian music globally. Blending traditional roots with modern styles to deliver unforgettable performances worldwide.",
     },
   ];
 
@@ -41,8 +41,8 @@ const ExperienceSec = () => {
       <div className="py-16 md:py-32">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between gap-2 border-b border-black pb-7 mb-9 md:mb-16">
-            <h2>Singing Experience</h2>
-            <p className="text-xl text-primary">( 02 )</p>
+            <h2>🎤︎ Best Singing Shows </h2>
+            
           </div>
 
           <div className="space-y-7 md:space-y-12">

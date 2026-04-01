@@ -14,12 +14,12 @@ const Footer = () => {
             <div className="flex-grow h-px bg-black" />
           </div>
           <p className="text-muted-foreground">
-            2026 © Designed by{" "}
+            2026 © Made with{" "}
             <Link
               href={"MarketingMens.com"}
               className="hover:text-black"
             >
-              marketingmens.com
+              MarketingMens
             </Link>{" "}
             - All rights reserved by Anita Signer
           </p>
