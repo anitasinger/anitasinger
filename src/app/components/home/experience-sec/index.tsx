@@ -34,6 +34,44 @@ const ExperienceSec = () => {
       description:
         "Performing at international shows and private events, performing Bollywood, Bhajans, and fusion music. Representing Indian music globally. Blending traditional roots with modern styles to deliver unforgettable performances worldwide.",
     },
+{
+      year: "2008",
+      title: "Playback & Event Singer",
+      company: "Stage Share with Sanjivani Bhelande & Hiral Dave ",
+      type: "3 days Live Shows Ahmedabad & Mumbai ",
+      description:
+        "Performed live in Ahmedabad alongside Mumbai playback singer Sanjivani Bhelande and Hiral Dave. Delivered engaging performances blending Bollywood and traditional music styles.",
+    },
+
+    {
+      year: "2009",
+      title: "Folk & Cultural Performer",
+      company: "Live Performed with Malini Awasthi ",
+      type: "Special Event Deshaj Program, Lucknow",
+      description:
+        "Performed at the prestigious Deshaj Program with renowned folk singer Malini Awasthi, showcasing rich Indian folk and cultural music traditions.",
+    },
+
+     {
+      year: "2010-19",
+      title: "Lead Stage Performer",
+      company: " All India Live 100+ Shows ",
+      type: "30 days Event",
+      description:
+        "Worked for over a decade with Mukhtar Shah, performing across India in 100+ live shows. Gained strong recognition for versatility in Bollywood, Ghazals, and live stage performances.",
+    },
+
+     {
+      year: "2017",
+      title: "International Tour Performer",
+      company: "USA Tour Albany Hall & New Jersey",
+      type: "30 days Event",
+      description:
+        "Performed during a 30-day USA tour at venues including Albany Hall and Royal Albert Palace, New Jersey. Represented Indian music internationally with powerful live performances.",
+    },
+
+    
+
   ];
 
   return (
@@ -41,7 +79,7 @@ const ExperienceSec = () => {
       <div className="py-16 md:py-32">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between gap-2 border-b border-black pb-7 mb-9 md:mb-16">
-            <h2>🎤︎ Best Singing Shows </h2>
+            <h2>🎤︎Singing Shows </h2>
             
           </div>
 

@@ -53,7 +53,7 @@ const educationData = {
       description: "Showcased live singing at a mayoral function and prestigious events across Nottingham, bringing Gujarati vibes and folk music to elite audiences."
     },
     {
-      title: "Stage Share with Bali Brahmbhatt",
+      title: "London Tour with Bali Brahmbhatt",
       description: "Collaborated in a special playback performance at Buckingham Palace with Bali Brahmbhatt, showcasing Indian music on a prestigious stage."
     }
   ],

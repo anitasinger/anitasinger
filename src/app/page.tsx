@@ -13,8 +13,8 @@ const page = () => {
         <HeroSection />
         <ContactBar />
         <AboutMe />
-        <ExperienceSec />
         <EducationSkills />
+        <ExperienceSec />
         <LatestWork />
         <Contact />
       </main>
