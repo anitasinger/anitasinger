@@ -7,8 +7,8 @@ const AboutMe = () => {
       <div className="relative bg-muted py-10 md:py-32">
         <div className="absolute top-0 w-full px-9">
           <Image
-            src="/images/home/about-me/resume-bg-img.svg"
-            alt="resume-bg-img"
+            src="/images/home/about-me/singer-bg-img.svg"
+            alt="singer-bg-img"
             width={1200}
             height={348}
             className="w-full"
