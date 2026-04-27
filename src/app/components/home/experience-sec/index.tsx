@@ -52,6 +52,15 @@ const ExperienceSec = () => {
         "Performed at the prestigious Deshaj Program with renowned folk singer Malini Awasthi, showcasing rich Indian folk and cultural music traditions.",
     },
 
+    {
+      year: "2009-10",
+      title: "International Singing Tour ",
+      company: "Malaysia Tour – Kuala Lumpur & Penang",
+      type: "3 Months Event",
+      description:
+        "Performed across multiple venues in Malaysia, including Hotel Krishna, Damansara (Kuala Lumpur). Delivered live Bollywood music performances, engaging diverse audiences with energetic and soulful singing.",
+    },
+
      {
       year: "2010-19",
       title: "Lead Stage Performer",
@@ -64,10 +73,10 @@ const ExperienceSec = () => {
      {
       year: "2017",
       title: "International Tour Performer",
-      company: "USA Tour Albany Hall & New Jersey",
+      company: "USA Tour Royal Albert Palace",
       type: "30 days Event",
       description:
-        "Performed during a 30-day USA tour at venues including Albany Hall and Royal Albert Palace, New Jersey. Represented Indian music internationally with powerful live performances.",
+        "Performed during a 30-day USA tour at multiple venues including Royal Albert Palace, New Jersey. Represented Indian music internationally with powerful live performances.",
     },
 
     
