@@ -7,25 +7,25 @@ const contactBar = {
       type: "email",
       label: "hi@anitasigner.com",
       icon: "/images/icon/mail-icon.svg",
-      link: "mailto:hello@imsruthi.com"
+      link: "mailto:hi@anitasigner.com"
     },
     {
       type: "phone",
       label: "+1 609 414 6699",
       icon: "/images/icon/call-icon.svg",
-      link: "tel:++16094146699"
+      link: "tel:+16094146699"
     },
     {
       type: "website",
       label: "www.anitasigner.com",
       icon: "/images/icon/web-icon.svg",
-      link: "https://www.mywebsite.com"
+      link: "https://www.anitasigner.com"
     }
   ],
   socialItems: [
     {
       platform: "Youtube",
-      icon: "/images/icon/dribble-icon.svg",
+      icon: "/images/icon/youtube-icon.png",
       link: "https://www.youtube.com/@anitajoshisongs3012/videos"
     },
     {
@@ -56,6 +56,7 @@ const educationData = {
       title: "London Tour with Bali Brahmbhatt",
       description: "Collaborated in a special playback performance at Buckingham Palace with Bali Brahmbhatt, showcasing Indian music on a prestigious stage."
     }
+    
   ],
   skills: [
     {
@@ -64,8 +65,8 @@ const educationData = {
       rating: 5
     },
     {
-      name: "Summer Show",
-      icon: "/images/home/education-skill/show-icon.svg",
+      name: "Albany Hall",
+      icon: "/images/home/education-skill/albany.svg",
       rating: 5
     },
     {
@@ -74,19 +75,19 @@ const educationData = {
       rating: 4
     },
     {
-      name: "Summer Show",
-      icon: "/images/home/education-skill/show-icon.svg",
+      name: "Royal Albert Palace",
+      icon: "/images/home/education-skill/royal-albert-palace.avif",
       rating: 4
     },
     {
-      name: "Summer Show",
-      icon: "/images/home/education-skill/show-icon.svg",
+      name: "Basingstoke Society",
+      icon: "/images/home/education-skill/basingstoke.png",
       rating: 5
     },
     {
-      name: "Summer Show",
-      icon: "/images/home/education-skill/show-icon.svg",
-      rating: 3
+      name: "Nottingham City",
+      icon: "/images/home/education-skill/Nottingham_City_Council_logo.svg",
+      rating: 4
     }
   ]
 }
@@ -109,8 +110,8 @@ const contactLinks = {
   contactInfo: [
     {
       type: "email",
-      label: "hi@anitasigner.com.",
-      link: "mailto:hi@anitasigner.com."
+      label: "hi@anitasigner.com",
+      link: "mailto:hi@anitasigner.com"
     },
     {
       type: "phone",
