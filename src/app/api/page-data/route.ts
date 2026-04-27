@@ -56,7 +56,6 @@ const educationData = {
       title: "London Tour with Bali Brahmbhatt",
       description: "Collaborated in a special playback performance at Buckingham Palace with Bali Brahmbhatt, showcasing Indian music on a prestigious stage."
     }
-    
   ],
   skills: [
     {
