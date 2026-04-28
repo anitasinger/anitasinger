@@ -3,7 +3,7 @@ import React from "react";
 const ExperienceSec = () => {
   const experiences = [
     {
-      year: "2003",
+      year: "2003-10",
       title: "Lead Stage Singer",
       company: "All India Live 50+ Shows",
       type: "All Time Singing Shows",
