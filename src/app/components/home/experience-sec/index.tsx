@@ -3,6 +3,14 @@ import React from "react";
 const ExperienceSec = () => {
   const experiences = [
     {
+      year: "2003",
+      title: "Lead Stage Singer",
+      company: "All India Live 50+ Shows",
+      type: "All Time Singing Shows",
+      description:
+        "Worked for over a decade with Mukhtar Shah, Varsha Kulkarni, Jaykar Bhojak, and many more, performing across India in 50+ live shows. Gained recognition in the Gujarat region and throughout India for live stage performances.",
+    },
+    {
       year: "2004",
       title: "Event Singer ",
       company: "Silvassa Navratri Festival",
@@ -13,8 +21,8 @@ const ExperienceSec = () => {
     {
       year: "2005",
       title: "Live Stage Performer",
-      company: "London Summer Show & Navratri Festival",
-      type: "30 Days Event",
+      company: "UK Summer Show with Arun Patel",
+      type: "3 Months Tour",
       description:
         "Performed at cultural festivals and Garba nights, specializing in Gujarati and folk music. Known for engaging crowds and creating high-energy musical experiences.",
     },
@@ -29,10 +37,28 @@ const ExperienceSec = () => {
     {
       year: "2007",
       title: "Professional Playback & Event Singer",
-      company: "BasingStoke London Hindu Temple Festival",
-      type: "30 days Event",
+      company: "BasingStoke Tour with Sunil Patel",
+      type: "00 days Event",
       description:
-        "Performing at international shows and private events, performing Bollywood, Bhajans, and fusion music. Representing Indian music globally. Blending traditional roots with modern styles to deliver unforgettable performances worldwide.",
+        "Performed at the Basingstoke London Hindu Temple International Festival and private events, performing Bollywood and Navratri specials. Represented Indian music globally as the Gujju Rockstar.",
+    },
+
+    {
+      year: "2007-09",
+      title: "Live Stage Singer",
+      company: "Moved to India for selected shows.",
+      type: "Special Events All over India",
+      description:
+        "Performed live throughout India alongside Mumbai playback singers Anwar Hussain, Sanjivani Bhelande, Hiral Dave, Malini Awasthi and many more.",
+    },
+
+    {
+      year: "2007",
+      title: "Women Singer",
+      company: "Shared the Stage with Anwar Hussain",
+      type: "3 days Live Shows",
+      description:
+        "Performed live in Mumbai and Ahmedabad with Anwar Hussain. Gained strong recognition for versatility and live stage performances all over India.",
     },
 {
       year: "2008",
@@ -45,41 +71,82 @@ const ExperienceSec = () => {
 
     {
       year: "2009",
+      title: "International Singing Tour ",
+      company: "Malaysia Tour – Kuala Lumpur, Damansara",
+      type: "3 Months Event",
+      description:
+        "Performed across multiple venues in Malaysia, including Hotel Krishna, Damansara (Kuala Lumpur). Delivered live Bollywood music performances, engaging diverse audiences with energetic and soulful singing.",
+    },
+
+    {
+      year: "2009",
+      title: "International Singing USA Tour",
+      company: "Dallas Tour with Sunny Patel",
+      type: "3 Months Event",
+      description:
+        "Performed across multiple venues in Texas, including Dallas city. Delivered live Bollywood live singing performances on live stages.",
+    },
+
+     {
+      year: "2010–15",
+      title: "London Special Shows",
+      company: " Collaborated with Bali Brahmbhatt ",
+      type: "Performed across the UK for five years",
+      description:
+        "Shared the stage with Bali Brahmbhatt, performing across the United Kingdom in 30+ live shows. Gained strong recognition for versatility and live stage performances.",
+    },
+ {
+      year: "2013",
+      title: "Special Event Piccadilly Circus",
+      company: " Performed in front of Queen Elizabeth II ",
+      type: "30 Days Event",
+      description:
+        "Performed at a prestigious event at Piccadilly Circus with renowned singer Bali Brahmbhatt, showcasing rich Indian folk and cultural music traditions.",
+    },
+
+     {
+      year: "2017",
+      title: "Special Event in New Jersey",
+      company: "USA Tour with Raj Bhati",
+      type: "60 days Event",
+      description:
+        "Performed during a USA tour with Raj Bhati, including venues like Royal Albert Hall and New Jersey. Represented Indian music internationally with powerful live performances.",
+    },
+
+{
+      year: "2018",
+      title: "Special Events in Atlanta",
+      company: "Stage share with Kamru Singer",
+      type: "45 Days Tour",
+      description:
+        "Performed at the prestigious event at Atlanta with renowned singer Kamru singer, showcasing rich Indian folk and cultural music traditions.",
+    },
+
+{
+      year: "2018-24",
+      title: "Moved to India",
+      company: "All India Singing Shows",
+      type: "Special Events All Over India",
+      description:
+        "Performed throughout India with renowned folk singers, showcasing rich Indian folk and cultural music traditions. Primarily performed in Navratri shows.",
+    },
+
+    {
+      year: "2021",
       title: "Folk & Cultural Performer",
       company: "Live Performed with Malini Awasthi ",
       type: "Special Event Deshaj Program, Lucknow",
       description:
         "Performed at the prestigious Deshaj Program with renowned folk singer Malini Awasthi, showcasing rich Indian folk and cultural music traditions.",
     },
-
-    {
-      year: "2009-10",
-      title: "International Singing Tour ",
-      company: "Malaysia Tour – Kuala Lumpur & Penang",
-      type: "3 Months Event",
+ {
+      year: "2025",
+      title: "Cultural & Bollywod Singer",
+      company: "Moved to USA ",
+      type: "Performed shows around the USA.",
       description:
-        "Performed across multiple venues in Malaysia, including Hotel Krishna, Damansara (Kuala Lumpur). Delivered live Bollywood music performances, engaging diverse audiences with energetic and soulful singing.",
+        "Started performing once again, showcasing rich Indian folk and cultural music traditions.",
     },
-
-     {
-      year: "2010-19",
-      title: "Lead Stage Performer",
-      company: " All India Live 100+ Shows ",
-      type: "30 days Event",
-      description:
-        "Worked for over a decade with Mukhtar Shah, performing across India in 100+ live shows. Gained strong recognition for versatility in Bollywood, Ghazals, and live stage performances.",
-    },
-
-     {
-      year: "2017",
-      title: "International Tour Performer",
-      company: "USA Tour Royal Albert Palace",
-      type: "30 days Event",
-      description:
-        "Performed during a 30-day USA tour at multiple venues including Royal Albert Palace, New Jersey. Represented Indian music internationally with powerful live performances.",
-    },
-
-    
 
   ];
 
