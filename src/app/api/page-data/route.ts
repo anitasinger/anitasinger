@@ -54,7 +54,7 @@ const educationData = {
     },
     {
       title: "London Tour",
-      description: "Performed in a special playback performance at Buckingham Palace & stage share with Bali Brahmbhatt, showcasing Indian music on a prestigious stage."
+      description: "Performed in a special playback performance at Buckingham Palace & stage share with Arun Patel, Bali Brahmbhatt, Sunil Patel, Raj Bhati & Many more singers showcasing Indian music on a prestigious stage."
     }
   ],
   skills: [
