@@ -20,10 +20,10 @@ const workData = [
         slug: "https://www.youtube.com/watch?v=_fHkeFcX87c"
     },
     {
-        image: "/images/work/work-img-10.jpg",
-        title: "Pehla Nasha Pehla Khumar",
-        client: "Sadhana Sargam",
-        slug: "https://www.youtube.com/watch?v=-nxsfGb6QUk"
+        image: "/images/work/work-img-14.jpg",
+        title: "Jaane Ja Jane Ja",
+        client: "USA Tour",
+        slug: "https://www.youtube.com/shorts/cfEHJPhwEZc"
     },
     {
         image: "/images/work/work-img-11.jpg",
