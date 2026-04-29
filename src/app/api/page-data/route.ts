@@ -64,8 +64,8 @@ const educationData = {
       rating: 5
     },
     {
-      name: "Albany Hall",
-      icon: "/images/home/education-skill/albany.svg",
+      name: "Rhythm n Bass",
+      icon: "/images/home/education-skill/rhythm.svg",
       rating: 5
     },
     {
