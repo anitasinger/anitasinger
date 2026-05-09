@@ -16,12 +16,12 @@ const Footer = () => {
           <p className="text-muted-foreground">
             2026 © Made with{" "}
             <Link
-              href={"MarketingMens.com"}
+              href={"#"}
               className="hover:text-black"
             >
               MarketingMens
             </Link>{" "}
-            - All rights reserved by Anita Signer
+            - All rights reserved by Anita Singer
           </p>
         </div>
       </div>
